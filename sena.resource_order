@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings": [
+    {"name":"SpriteTiles","order":2,"path":"folders/Sprites/SpriteTiles.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Sprite6","order":3,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"GameOver","order":2,"path":"rooms/GameOver/GameOver.yy",},
+    {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"Background2","order":1,"path":"tilesets/Background2/Background2.yy",},
+    {"name":"Sprite8","order":5,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"spr_bat_man_running","order":1,"path":"sprites/spr_bat_man_running/spr_bat_man_running.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Go_to","order":3,"path":"objects/Go_to/Go_to.yy",},
+    {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"CambiadorDeColor","order":2,"path":"objects/CambiadorDeColor/CambiadorDeColor.yy",},
+    {"name":"Sprite7","order":4,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"GameObjectxd","order":4,"path":"objects/GameObjectxd/GameObjectxd.yy",},
+    {"name":"TileSueloExtendido","order":1,"path":"sprites/TileSueloExtendido/TileSueloExtendido.yy",},
+  ],
+}
